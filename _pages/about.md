@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "李家辉, 吉林大学"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -17,125 +17,109 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+李家辉，吉林大学计算机科学与技术学院助理研究员，入选**<u>国家资助博士后研究人员计划 (C档)</u>** 和**<u>吉林大学“鼎新学者”支持计划</u>**。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**<u>中国商业联合会科学技术奖二等奖</u>**、**<u>宝钢优秀学生奖（研究生）</u>**、**<u>吉林大学十佳博士研究生</u>**、**<u>中国一汽“红旗”奖学金</u>**、**<u>INFOCOM 2021 Student Conference Award</u>**、**<u>国家奖学金</u>**、**<u>王湘浩奖学金</u>**、**<u>吉林省普通高校省级优秀大学生</u>**、**<u>吉林大学优秀博士学位论文</u>**、**<u>吉林省优秀硕士学位论文</u>**、**<u>优秀研究生</u>**、**<u>优秀毕业生</u>**等多项奖励和荣誉称号。
 
-我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
-  
 
+近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文30余篇，其中**<u>中国计算机学会推荐A类、B类期刊和会议及中科院1区近20篇</u>**，包括**<u>IEEE/ACM ToN</u>、<u>IEEE JSAC</u>、<u>IEEE TMC</u>、<u>IEEE TWC</u>、<u>IEEE TCOM</u>、<u>IEEE IoT-J</u>、<u>IEEE WCM</u>、<u>IEEE TIV</u>、<u>IEEE INFOCOM</u>、<u>IEEE GLOBECOM</u>、<u>IEEE WCNC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议；获得授权发明专利5项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**<u>国家资助博士后研究人员计划项目</u>**、**<u>中国博士后科学基金面上项目</u>**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等。
+
+主要研究方向为：
+- 空天地一体化网络
+- 异构协作通信
+- 多目标优化
+- 深度强化学习与演化学习
+
+如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:lijiahui0803@foxmail.com">lijiahui0803@foxmail.com</a>）或微信（ljh1009501336）与我联系，期待您的见解与帮助。
 
 <span class='anchor' id='-xl'></span>
 
-# 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
- 
+# 🎓 教育经历
+- *2021.09 - 2024.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，软件工程, 吉林长春, 导师：<a href="https://sungeng207.github.io/">孙庚教授</a>
+- *2022.10 - 2023.10*, <a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="30pt"></a> 新加坡科技设计大学，工程系统设计, 新加坡, 导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a>
+- *2018.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术, 硕士，吉林长春, 导师：<a href="https://ccst.jlu.edu.cn/info/1367/19083.htm">康辉教授</a>
+- *2014.09 - 2018.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程, 学士，吉林长春, 导师：<a href="https://ccst.jlu.edu.cn/info/1367/19083.htm">康辉教授</a>
+
 <span class='anchor' id='-lwzl'></span>
 
-# 📝 论文专利
+# 📝 代表性学术成果
 
-### 英文
----
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sensors 2022</div><img src='images/sensors2022.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2024</div><img src='images/jsac2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Gongzhe Qiu, Yu Hu, Yihua Kang. Mechanism of magnetic flux leakage detection method based on the slotted ferromagnetic lift-off layer. *Sensors*, 2022, 22(9): 3587. (JCR:Q2; IF:3.847)  
-[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[下载]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+- `Jiahui Li`, Geng Sun**\***, Qingqing Wu**\***, Dusit Niyato, Jiawen Kang, Abbas Jamalipour, Victor C.M. Leung. Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning, *IEEE Journal on Selected Areas in Communications*, 2024. **(IF=13.8) (SCI, 中科院1区，CCF A类期刊)**
+[[网页]](https://dx.doi.org/10.3390/s22093587) [[预览]](about:blank) [[下载]](about:blank)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2021</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='images/infocom2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Bocheng Liu, Yihua Kang. A novel magnetic flux leakage method based on the ferromagnetic lift-off layer with through groove. *Sensors and Actuators A: Physical*. 2021: 113091. (JCR:Q1; IF:4.291)  
-[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf) [[下载]](/pdf/TangJ-2021-A%20novel%20magnetic%20flux%20leakage%20method%20based%20on%20the%20ferromagnetic%20lift-off%20layer.pdf)
+-	`Jiahui Li`, Geng Sun**\***, Qingqing Wu, Shuang Liang**\***, Pengfei Wang, Dusit Niyato, Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2024)*. **(CCF A类会议)**  
+[[网页]](https://dx.doi.org/10.1016/j.sna.2021.113091) [[预览]](about:blank) [[下载]](about:blank)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Int. J. Appl. Electrom. 2020</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2023</div><img src='images/tmc2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Jian Tang`, Rongbiao Wang, Jikai Zhang, Yihua Kang. The influence of magnetic head’s pose on magnetic flux leakage detection. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 493–500. (JCR:Q4; IF:0.536)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf) [[下载]](/pdf/TangJ-2020-The%20influence%20of%20magnetic%20head%E2%80%99s%20pose%20on%20magnetic%20flux%20leakage%20detection.pdf)
+-	`Jiahui Li`, Geng Sun**\***, Lingjie Duan, Qingqing Wu. Multi-Objective Optimization for UAV Swarm-Assisted IoT with Virtual Antenna Arrays, *IEEE Transactions on Mobile Computing*, 2023. **(IF=6.075) (SCI, CCF A类期刊)**
+[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](about:blank) [[下载]](about:blank)
 
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ToN 2023</div><img src='images/ton2023.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- Bo Feng, Jianbo Wu, Hongming Tu, `Jian Tang`, Yihua Kang. A Review of Magnetic Flux Leakage Nondestructive Testing. *Materials*. 2022, 15 (20): 7362. (JCR:Q1; IF:3.748)  
-[[网页]](https://dx.doi.org/10.3390/ma15207362) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf) [[下载]](/pdf/FengB-2022-A%20Review%20of%20Magnetic%20Flux%20Leakage%20Nondestructive%20Testing.pdf)
+-	`Jiahui Li`, Geng Sun**\***, Hui Kang, Aimin Wang, Shuang Liang, Yanheng Liu, Ying Zhang. Multi-Objective Optimization Approaches for Physical Layer Secure Communications Based on Collaborative Beamforming in UAV Networks, *IEEE/ACM Transactions on Networking*, 2023. **(IF=3.796) (SCI, CCF A类期刊)**
+[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](about:blank) [[下载]](about:blank)
 
+</div>
+</div>
 
-- Xin Jin, Hongbao Ma, `Jian Tang`, Yihua Kang, A Self-Adaptive Vibration Reduction Method Based on Deep Deterministic Policy Gradient (DDPG) Reinforcement Learning Algorithm. *Applied Sciences*. 2022,12(9): 9703. (JCR:Q2; IF:2.838)  
-[[网页]](https://dx.doi.org/10.3390/app12199703) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf) [[下载]](/pdf/JinX-2022-A%20Self-Adaptive%20Vibration%20Reduction%20Method%20Based%20on%20Deep%20Deterministic%20Policy.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2021</div><img src='images/infocom2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- Jikai Zhang, Yuewen Huang, `Jian Tang`, Fangfang Zhou, Yihua Kang, Bo Feng. Inspection of Cracks in the Piston Rod of a Hydraulic Cylinder Using Injected Alternating Current-Field Measurement. *Water*. 2022 14(17):2736. (JCR:Q2; IF:3.530)  
-[[网页]](https://dx.doi.org/10.3390/w14172736) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf) [[下载]](/pdf/ZhangJ-2022-Inspection%20of%20Cracks%20in%20the%20Piston%20Rod%20of%20a%20Hydraulic%20Cylinder%20Using%20Injected.pdf)
+-	`Jiahui Li`, Hui Kang, Geng Sun**\***, Shuang Liang, Yanheng Liu, Ying Zhang, Physical Layer Secure Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Approach, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2021)*. **(CCF A类会议)**
+[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](about:blank) [[下载]](about:blank)
 
--	Shenghan Wang, Bo Feng, `Jian Tang`, Yanting Chen, Yihua Kang. A Novel AC-MFL Probe Based on the Parallel Cables Magnetizing Technique. *Journal of Nondestructive Evaluation*, 2022, 41(2): 39. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-022-00872-3) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf) [[下载]](/pdf/WangS-2022-A%20Novel%20AC-MFL%20Probe%20Based%20on%20the%20Parallel%20Cables%20Magnetizing%20Technique.pdf)
+</div>
+</div>
 
--	Rongbiao Wang, Yihua Kang, `Jian Tang`, Bo Feng, Yongle Deng. A Novel Magnetic Flux Leakage Testing Method Based on AC and DC Composite Magnetization. *Journal of Nondestructive Evaluation*. 2020, 39(4): 84. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-020-00730-0) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf) [[下载]](/pdf/Wang-2020-A%20Novel%20Magnetic%20Flux%20Leakage%20Testing%20Method%20Based%20on%20AC%20and%20DC%20Composite.pdf)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2021</div><img src='images/jsac2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-- Rongbiao Wang, `Jian Tang`, Zhiyang Deng, Yihua Kang. Motion induced eddy current based testing method for the detection of circumferential defects under circumferential magnetization. *International Journal of Applied Electromagnetics and Mechanics*. 2020, 64(1–4): 501–508. (JCR:Q4; IF:0.706)  
-[[网页]](https://dx.doi.org/10.3233/JAE-209357) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf) [[下载]](/pdf/WangR-2020-Motion%20induced%20eddy%20current%20based%20testing%20method%20for%20the%20detection%20of.pdf)
+-	Geng Sun, `Jiahui Li`, Yanheng Liu, Shuang Liang**\***, Hui Kang**\***. Time and Energy Minimization Communications Based on Collaborative Beamforming for UAV Networks: A Multi-objective Optimization Method, *IEEE Journal on Selected Areas in Communications*, 39(11): 3555 - 3572, 2021. **(IF=11.42) (SCI, 中科院1区, CCF A类期刊)**
+[[网页]](https://dx.doi.org/10.3233/JAE-209356) [[预览]](about:blank) [[下载]](about:blank)
 
--	Rongbiao Wang, Zhiyang Deng, Rui Liu, Yihua Kang, Jikai Zhang, `Jian Tang`. A large lift-off nondestructive testing method based on the interaction between AC magnetic field and MFL field. *23rd International Workshop on Electromagnetic Nondestructive Evaluation*, ENDE 2018. Detroit, MI, United States: IOS Press. 2019: 44–49. (EI)  
-[[网页]](https://dx.doi.org/10.3233/SAEM190009) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf) [[下载]](/pdf/WangR-2019-A%20large%20lift-off%20nondestructive%20testing%20method%20based%20on%20the%20interaction%20between.pdf)
-
-- Xiaoming Huang, Jianbo Wu, Jie Wang, Rongbiao Wang, `Jian Tang`, Yihua Kang, Hui Fang. Signal Characteristics of Circular Induction Coil Influenced by Scanning Spatial Location in MFL. *Materials Evaluation*. 2018, 76(12):1647–59. (JCR:Q4; IF:0.554)  
-[[网页]](https://ndtlibrary.asnt.org/2018/SignalCharacteristicsofCircularInductionCoilInfluencedbyScanningSpatialLocationinMFL) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf) [[下载]](/pdf/Huang-2018-Signal%20Characteristics%20of%20Circular%20Induction%20Coil%20Influenced%20by%20Scanning.pdf)
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu. A new micro magnetic bridge probe in magnetic flux leakage for detecting micro-cracks. *Journal of Nondestructive Evaluation*. 2018, 37(3): 46. (JCR:Q2; IF:1.995)  
-[[网页]](https://dx.doi.org/10.1007/s10921-018-0499-8) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf) [[下载]](/pdf/Li-2018-A%20New%20Micro%20Magnetic%20Bridge%20Probe%20in%20Magnetic%20Flux%20Leakage%20for%20Detecting.pdf)
-
--	Erlong Li, Yihua Kang, `Jian Tang`, Jianbo Wu, Xizi Yan. Analysis on Spatial Spectrum of Magnetic Flux Leakage Using Fourier Transform. *IEEE Transactions on Magnetics*. 2018, 54(8): 1–10. (JCR:Q3; IF:1.700)  
-[[网页]](https://dx.doi.org/10.1109/TMAG.2018.2844220) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf) [[下载]](/pdf/LiE-2018-Analysis%20on%20Spatial%20Spectrum%20of%20Magnetic%20Flux%20Leakage%20Using%20Fourier%20Transform.pdf)
-
-### 中文
----
-
-- 	`唐健`，王荣彪，康宜华. 大提离漏磁无损检测方法. *无损检测*. 2022,44(4): 67. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202204000) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%94%90%E5%81%A5-2022-%E5%A4%A7%E6%8F%90%E7%A6%BB%E6%BC%8F%E7%A3%81%E6%97%A0%E6%8D%9F%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-- 刘伯承, `唐健*`, 王荣彪, 叶文超, 康宜华. 基于TMR的轴承滚子微细裂纹漏磁检测方法. *仪表技术与传感器*. 2021(12): 111-114+118.  (通讯作者; 核心期刊)  
-[[网页]](https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&dbname=CJFDAUTO&filename=YBJS202112021) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8ETMR%E7%9A%84%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-- 	汪圣涵, `唐健*`, 刘军, 陈文宇, 康宜华. 双机械手操作的轴承阵列漏磁检测方法与系统. *轴承*. 2021(01): 54-58+65. (通讯作者; 核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.01.011) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%B1%AA%E5%9C%A3%E6%B6%B5-2021-%E5%8F%8C%E6%9C%BA%E6%A2%B0%E6%89%8B%E6%93%8D%E4%BD%9C%E7%9A%84%E8%BD%B4%E6%89%BF%E9%98%B5%E5%88%97%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-- 	邓永乐, 王荣彪, `唐健`, 汪圣涵, 康宜华. 基于脉冲磁化的阵列磁桥式位移传感器. *仪器仪表学报*. 2021: 1–10. (EI期刊)  
-[[网页]](https://dx.doi.org/10.19650/j.cnki.cjsi.J2107388) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf) [[下载]](/pdf/%E9%82%93%E6%B0%B8%E4%B9%90-2021-%E5%9F%BA%E4%BA%8E%E8%84%89%E5%86%B2%E7%A3%81%E5%8C%96%E7%9A%84%E9%98%B5%E5%88%97%E7%A3%81%E6%A1%A5%E5%BC%8F%E4%BD%8D%E7%A7%BB%E4%BC%A0%E6%84%9F%E5%99%A8.pdf)  
-
-
-- 	王荣彪, 康宜华, 邓永乐, 王碧瑶, 汪圣涵, `唐健`. 钻杆内壁腐蚀的交直流复合磁化漏磁检测方法. *中国机械工程*. 2020: 1–6. (EI期刊)  
-[[网页]](https://dx.doi.org/10.3969/j.issn.1004-132X.2021.02.001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E7%8E%8B%E8%8D%A3%E5%BD%AA-2020-%E9%92%BB%E6%9D%86%E5%86%85%E5%A3%81%E8%85%90%E8%9A%80%E7%9A%84%E4%BA%A4%E7%9B%B4%E6%B5%81%E5%A4%8D%E5%90%88%E7%A3%81%E5%8C%96%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
--	刘伯承, 段兆祺, 姜春, `唐健`, 康宜华. 轴承滚子微细裂纹的漏磁检测. *无损检测*, 2022, 44(11): 1-5. (核心期刊)   
-[[网页]](https://dx.doi.org/10.11973/wsjc202211001) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2022-%E8%BD%B4%E6%89%BF%E6%BB%9A%E5%AD%90%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%9A%84%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B.pdf)  
-
-- 	刘伯承, `唐健`, 王荣彪, 康宜华, 余平. 基于交流通电的钢球微细裂纹电磁检测方法. *轴承*. 2021(08): 32–38. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2021.08.007) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf) [[下载]](/pdf/%E5%88%98%E4%BC%AF%E6%89%BF-2021-%E5%9F%BA%E4%BA%8E%E4%BA%A4%E6%B5%81%E9%80%9A%E7%94%B5%E7%9A%84%E9%92%A2%E7%90%83%E5%BE%AE%E7%BB%86%E8%A3%82%E7%BA%B9%E7%94%B5%E7%A3%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95.pdf)  
-
-
-- 	孟杰, 李二龙, `唐健`, 康宜华. 轴承套圈裂纹高速漏磁检测系统. *轴承*. 2018(08): 66–70. (核心期刊)  
-[[网页]](https://dx.doi.org/10.19533/j.issn1000-3762.2018.08.015) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E5%AD%9F%E6%9D%B0-2018-%E8%BD%B4%E6%89%BF%E5%A5%97%E5%9C%88%E8%A3%82%E7%BA%B9%E9%AB%98%E9%80%9F%E6%BC%8F%E7%A3%81%E6%A3%80%E6%B5%8B%E7%B3%BB%E7%BB%9F.pdf)  
-
-
-
-- 	杨航, 汪圣涵, `唐健`, 康宜华. 凸轮轴的自动化涡流检测方法与系统. *无损检测*. 2020, 42(11): 61. (核心期刊)  
-[[网页]](https://dx.doi.org/10.11973/wsjc202011013) [[预览]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf) [[下载]](/pdf/%E6%9D%A8%E8%88%AA-2020-%E5%87%B8%E8%BD%AE%E8%BD%B4%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B6%A1%E6%B5%81%E6%A3%80%E6%B5%8B%E6%96%B9%E6%B3%95%E4%B8%8E%E7%B3%BB%E7%BB%9F.pdf)  
+</div>
+</div>
+- Chuang Zhuang, Geng Sun**\***, `Jiahui Li*`, Qingqing Wu, Jiacheng Wang, Dusit Niyato, Yuanwei Liu. Multi-objective Aerial Collaborative Secure Communication Optimization via Generative Diffusion Model-enabled Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
+- Saichao Liu, Geng Sun**\***, `Jiahui Li*`, Shuang Liang, Qingqing Wu, Pengfei Wang, Dusit Niyato. UAV-enabled Collaborative Beamforming via Multi-Agent Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2024. **(IF=7.9) (SCI, CCF A类期刊)**
+- Geng Sun, `Jiahui Li`, Aimin Wang**\***, Qingqing Wu**\***, Zemin Sun, Yanheng Liu. Secure and Energy-Efficient UAV Relay Communications Exploiting Collaborative Beamforming, *IEEE Transactions on Communications*, 70(8), 5401-5416, 2022. **(IF=6.166) (SCI, CCF B类期刊)**
+- Geng Sun, `Jiahui Li`, Aimin Wang**\***, Qingqing Wu, Zemin Sun, Yanheng Liu, Shuang Liang. Collaborative Beamforming for UAV Networks Exploiting Swarm Intelligence, *IEEE Wireless Communications*, 29(4): 10-17, 2022. **(IF=11.39) (SCI, 中科院1区)**
+- `Jiahui Li`, Geng Sun**\***, Aiming Wang, Xiaoya Zheng, Zhaoyu Chen, Shuang Liang, Yanheng Liu. Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach, *Expert Systems With Applications*, 2023. **(IF=8.665) (SCI, 中科院1区)**
+- `Jiahui Li`, Geng Sun**\***, Aiming Wang, Ming Lei, Shuang Liang, Hui Kang, Yanheng Liu. A Many-objective Optimization Charging Scheme for Wireless Rechargeable Sensor Networks via Mobile Charging Vehicles, *Computer Networks*, 215, 109196, 2022. **(IF=4.474) (SCI, CCF B类期刊)**
+- `Jiahui Li`, Geng Sun**\***, Shuang Liang, Yuxin Wang, Aimin Wang. Multi-Objective Uplink Data Transmission Optimization for Edge Computing in UAV-Assistant Mobile Wireless Sensor Networks, *Journal of Systems Architecture*, 132, 102744, 2022. **(IF=5.836) (SCI, CCF B类期刊)**
+- Xiaoya Zheng, Geng Sun**\***, `Jiahui Li`, Shuang Liang, Qingqing Wu, Minghao Yin, Dusit Niyato, Victor C. M. Leung. Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks, *IEEE Transactions on Wireless Communications*, 2024. **(IF=10.400) (SCI, 中科院1区)**
+- Shuang Liang, Minghao Yin, Geng Sun**\***, `Jiahui Li*`. Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming, *IEEE Internet of Things Journal*, 2023. **(IF=10.600) (SCI, 中科院1区)**
+- Hongjuan Li, Hui Kang, Geng Sun**\***, `Jiahui Li*`, Jiacheng Wang, Xue Wang, Dusit Niyato, Victor C.M. Leung. UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks, *IEEE Internet of Things Journal*, 2024. **(IF=8.200) (SCI, 中科院1区)**
+- Shuang Liang, Minhao Yin, Wenwen Xie, Zenmin Sun**\***, `Jiahui Li*`, Jiacheng Wang, Hongyang Du, UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning, *IEEE Internet of Things Journal*, 2024. **(IF=8.200) (SCI, 中科院1区)**
+- Jiawei Huang, Aimin Wang, Geng Sun**\***, `Jiahui Li*`, Jiacheng Wang, Hongyang Du, Dusit Niyato. Dual UAV Cluster-Assisted Maritime Physical Layer Secure Communications via Collaborative Beamforming, *IEEE Internet of Things Journal*, 2024. **(IF=8.200) (SCI, 中科院1区)**
+- Hongjuan Li, Hui Kang, `Jiahui Li*`, Yanyun Pang, Geng Sun**\***, Shuang Liang. Single-objective and Multi-objective Mixed-variable Grey Wolf Optimizer for Joint Feature Selection and Classifier Parameter Tuning, *Applied Soft Computing*, 2024. **(IF=8.700) (SCI, 中科院1区)**
+- Boxiong Wang, Hui Kang, Geng Sun**\***, `Jiahui Li*`, Efficient Traffic-based IoT Device Identification Using a Feature Selection Approach with Lévy Flight-based Sine Chaotic Sub-swarm Binary Honey Badger Algorithm, *Applied Soft Computing*, 2024. **(IF=8.700) (SCI, 中科院1区)**
+- Shuang Liang, Minghao Yin, Geng Sun**\***, `Jiahui Li*`, Hongjuan Li, Jiacheng Wang, Dusit Niyato, Victor C.M. Leung. Cooperative Communication via Automated Guided Vehicle and Unmanned Aerial Vehicle: A Distributed Collaborate Beamforming Method, *IEEE Transactions on Intelligent Vehicles*, 2024. **(IF=14.00) (SCI, 中科院1区)**
+- Fang Mei, Yuqing Liu, Shuo Gao, `Jiahui Li*`, Hui Kang\*, Sujin Hou, Geng Sun. Secure and Energy-efficient UAV-assisted Maritime Communication under Multiple Eavesdroppers with Imperfect CSI and Collusion, *Chinese Journal of Aeronautics*, 2024. **(IF=5.3) (SCI, 中科院1区)**
+- Long Li, Gaochao Xu, Ziqi Liu, Jiaqi Ge, Wenchao Jiang**\***, `Jiahui Li*`, Task execution latency minimization for energy-sensitive IoTs in wireless powered mobile edge computing: A DRL-based method, *Computer Network*, 251, 110633, 2024. **(CCF B类期刊)**
+- Wenwen Xie, Geng Sun**\***, `Jiahui Li*`, Xue Wang, Jiacheng Wang, Hongyang Du, Dusit Niyato, IRS-enabled Wireless Power Transfer and Data Collection in UAV-assisted IoT, *IEEE Global Communications Conference (IEEE GLOBECOM 2024)*. **(CCF C类会议)**
+- Boxiong Wang, Hui Kang, Geng Sun**\***, `Jiahui Li*`, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**
+- Chuang Zhang, Geng Sun**\***, `Jiahui Li*`, Xiaoya Zheng, Bi-objective Optimization for UAV Swarm-enabled Relay Communications via Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**
+- Jiawei Huang, Aimin Wang, Geng Sun**\***, `Jiahui Li*`, Xiaoya Zheng, Jamming-aided Maritime Physical Layer Encrypted Dual-UAVs Communications Exploiting Collaborative Beamforming, *26th International Conference on Computer Supported Cooperative Work in Design (CSCWD 2023)*. **(CCF C类会议)**
+- Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun**\***, `Jiahui Li*`, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**
+- Bingtian Li, Hui Kang, Geng Sun**\***, `Jiahui Li*`, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. **(CCF C类会议)**
+- Geng Sun, Bei Liu, `Jiahui Li*`, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
+- Jiawei Huang, Aimin Wang, Geng Sun**\***, `Jiahui Li*`, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
 
 ### 专利
 ---
