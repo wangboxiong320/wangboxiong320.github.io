@@ -1,25 +1,51 @@
 # main links links
 main:
-  - title: "🎉 News"
-    url: "/#-news"
-    
-  - title: "💼 个人简介"
-    url: "/#-about-me"
+  cn:
+    - title: "🎉 News"
+      url: "/#-news"
+      
+    - title: "💼 个人简介"
+      url: "/#-about-me"
 
-  - title: "🎓 教育经历"
-    url: "/#-jyjl"
+    - title: "🎓 教育经历"
+      url: "/#-jyjl"
 
-  - title: "🔬 科研项目"
-    url: "/#-kyxm"
+    - title: "🔬 科研项目"
+      url: "/#-kyxm"
 
-  - title: "📝 代表性学术成果"
-    url: "/#-xscg"
+    - title: "📝 代表性学术成果"
+      url: "/#-xscg"
 
-  - title: "💡 发明专利"
-    url: "/#-fmzl"
+    - title: "💡 发明专利"
+      url: "/#-fmzl"
 
-  - title: "🏅 荣誉奖项"
-    url: "/#-ryjx"
+    - title: "🏅 荣誉奖项"
+      url: "/#-ryjx"
 
-  - title: "🏛️ 学术兼职"
-    url: "/#-xsjz"
+    - title: "🏛️ 学术兼职"
+      url: "/#-xsjz"
+
+  en:
+    - title: "🎉 News"
+      url: "/en/#-news"
+      
+    - title: "💼 Introduction"
+      url: "/en/#-about-me"
+
+    - title: "🎓 Education"
+      url: "/en/#-jyjl"
+
+    - title: "🔬 Research"
+      url: "/en/#-kyxm"
+
+    - title: "📝 Publications"
+      url: "/en/#-xscg"
+
+    - title: "💡 Patent"
+      url: "/en/#-fmzl"
+
+    - title: "🏅 Rewards"
+      url: "/en/#-ryjx"
+
+    - title: "🏛️ Academic"
+      url: "/en/#-xsjz"
