@@ -36,7 +36,7 @@ redirect_from:
 李家辉，吉林大学计算机科学与技术学院助理研究员，入选**<u>国家资助博士后研究人员计划 (C档)</u>** 和**<u>吉林大学“鼎新学者”支持计划</u>**。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**<u>中国商业联合会科学技术奖二等奖</u>**、**<u>宝钢优秀学生奖（研究生）</u>**、**<u>吉林大学十佳博士研究生</u>**、**<u>中国一汽“红旗”奖学金</u>**、**<u>INFOCOM 2021 Student Conference Award</u>**、**<u>国家奖学金</u>**、**<u>王湘浩奖学金</u>**、**<u>吉林省普通高校省级优秀大学生</u>**、**<u>吉林大学优秀博士学位论文</u>**、**<u>吉林省优秀硕士学位论文</u>**、**<u>优秀研究生</u>**、**<u>优秀毕业生</u>**等多项奖励和荣誉称号。
 
 
-近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文30余篇，其中**<u>中国计算机学会推荐A类、B类期刊和会议及中科院1区近20篇</u>**，包括**<u>IEEE/ACM ToN</u>、<u>IEEE JSAC</u>、<u>IEEE TMC</u>、<u>IEEE TWC</u>、<u>IEEE TCOM</u>、<u>IEEE IoT-J</u>、<u>IEEE WCM</u>、<u>IEEE TIV</u>、<u>IEEE INFOCOM</u>、<u>IEEE GLOBECOM</u>、<u>IEEE WCNC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议；获得授权发明专利5项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**<u>国家资助博士后研究人员计划项目</u>**、**<u>中国博士后科学基金面上项目</u>**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等。
+近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文30余篇，其中**<u>中国计算机学会推荐A类、B类期刊和会议及中科院1区20余篇</u>**，包括**<u>IEEE/ACM ToN</u>、<u>IEEE JSAC</u>、<u>IEEE TMC</u>、<u>IEEE TWC</u>、<u>IEEE TCOM</u>、<u>IEEE IoT-J</u>、<u>IEEE WCM</u>、<u>IEEE TIV</u>、<u>IEEE INFOCOM</u>、<u>IEEE GLOBECOM</u>、<u>IEEE WCNC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议；获得授权发明专利5项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**<u>国家资助博士后研究人员计划项目</u>**、**<u>中国博士后科学基金面上项目</u>**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等。
 
 主要研究方向为：
 - 空天地一体化网络
@@ -44,7 +44,7 @@ redirect_from:
 - 多目标优化
 - 深度强化学习与演化学习
 
-如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:lijiahui0803@foxmail.com">lijiahui0803@foxmail.com</a>）或微信（ljh1009501336）与我联系，期待您的见解与帮助。
+如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:lijiahui@jlu.edu.cn">lijiahui@jlu.edu.cn</a>）或微信（ljh1009501336）与我联系，期待您的见解与帮助。
 
 
 <span class='anchor' id='-jyjl'></span>
@@ -134,7 +134,7 @@ redirect_from:
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Aiming Wang, Xiaoya Zheng, Zhaoyu Chen, Shuang Liang, Yanheng Liu. Multi-objective Sparse Synthesis Optimization of Concentric Circular Antenna Array via Hybrid Evolutionary Computation Approach, *Expert Systems With Applications*, 2023. **(IF=8.665) (SCI, 中科院1区)**
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Aiming Wang, Ming Lei, Shuang Liang, Hui Kang, Yanheng Liu. A Many-objective Optimization Charging Scheme for Wireless Rechargeable Sensor Networks via Mobile Charging Vehicles, *Computer Networks*, 215, 109196, 2022. **(IF=4.474) (SCI, CCF B类期刊)**
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Shuang Liang, Yuxin Wang, Aimin Wang. Multi-Objective Uplink Data Transmission Optimization for Edge Computing in UAV-Assistant Mobile Wireless Sensor Networks, *Journal of Systems Architecture*, 132, 102744, 2022. **(IF=5.836) (SCI, CCF B类期刊)**
-- Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>**, Shuang Liang, Qingqing Wu, Minghao Yin, Dusit Niyato, Victor C. M. Leung. Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks, *IEEE Transactions on Wireless Communications*, 2024. **(IF=10.400) (SCI, 中科院1区)**
+- Xiaoya Zheng, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Shuang Liang, Qingqing Wu, Minghao Yin, Dusit Niyato, Victor C. M. Leung. Reliable and Energy-efficient Communications via Collaborative Beamforming for UAV Networks, *IEEE Transactions on Wireless Communications*, 2024. **(IF=10.400) (SCI, 中科院1区)**
 - Shuang Liang, Minghao Yin, Geng Sun**\***, **<u>Jiahui Li</u>****\***. Multi-objective Optimization Approach for Reducing Hovering and Motion Energy Consumptions in UAV-assisted Collaborative Beamforming, *IEEE Internet of Things Journal*, 2023. **(IF=10.600) (SCI, 中科院1区)**
 - Hongjuan Li, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Xue Wang, Dusit Niyato, Victor C.M. Leung. UAV Virtual Antenna Array Deployment for Uplink Interference Mitigation in Data Collection Networks, *IEEE Internet of Things Journal*, 2024. **(IF=8.200) (SCI, 中科院1区)**
 - Shuang Liang, Minhao Yin, Wenwen Xie, Zenmin Sun**\***, **<u>Jiahui Li</u>****\***, Jiacheng Wang, Hongyang Du, UAV-enabled Secure Data Collection and Energy Transfer in IoT via Diffusion Model-enhanced Deep Reinforcement Learning, *IEEE Internet of Things Journal*, 2024. **(IF=8.200) (SCI, 中科院1区)**
@@ -198,6 +198,7 @@ redirect_from:
    - IEEE Transactions on Intelligent Transportation Systems
    - IEEE Transactions on Mobile Computing
    - IEEE Transactions on Knowledge and Data Engineering
+   - IEEE Transactions on Network Science and Engineering
    - ACM Transactions on Sensor Networks
    - IEEE Internet of Things Journal
    - IEEE Open Journal of the Communications Society
