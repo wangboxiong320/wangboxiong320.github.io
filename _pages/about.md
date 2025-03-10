@@ -164,9 +164,10 @@ redirect_from:
 
 1. 一种基于虚拟阵列天线协作波束成形的无人机中继通信方法，专利号：ZL202111147066.X，**<u>李家辉</u>**、孙庚、郑晓雅、刘衍珩、梁爽、王爱民
 2. 一种无人机蜂群安全通信方法，专利号：ZL202210003107.6，孙庚、郑晓雅、**<u>李家辉</u>**、王爱民、梁爽、刘昭、孙泽敏、刘衍珩
-3. 一种无人机辅助的无线传感器网络节点充电选择方法，专利号：ZL202111008945.4，潘弘洋、孙庚、刘衍珩、**<u>李家辉</u>**、梁爽、王爱民、郑晓雅、樊俊松
-4. 一种车雾辅助无人机灾后救援任务卸载方法，专利号：ZL202210788909.2，孙庚、何龙、孙泽敏、梁爽、**<u>李家辉</u>**、郑晓雅、张嘉赟
-5. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽
+3. 一种基于多目标优化的卫星认知无线电低干扰通信方法，专利号：ZL 202411730633.8，康辉、张超、刘琦、**<u>李家辉</u>**、李洪娟
+4. 一种无人机辅助的无线传感器网络节点充电选择方法，专利号：ZL202111008945.4，潘弘洋、孙庚、刘衍珩、**<u>李家辉</u>**、梁爽、王爱民、郑晓雅、樊俊松
+5. 一种车雾辅助无人机灾后救援任务卸载方法，专利号：ZL202210788909.2，孙庚、何龙、孙泽敏、梁爽、**<u>李家辉</u>**、郑晓雅、张嘉赟
+6. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -205,9 +206,13 @@ redirect_from:
    - IEEE Transactions on Knowledge and Data Engineering
    - IEEE Transactions on Network Science and Engineering
    - ACM Transactions on Sensor Networks
+   - IEEE Transactions on Vehicular Technology
    - IEEE Internet of Things Journal
+   - IEEE Communications Magazine
    - IEEE Open Journal of the Communications Society
    - SN Computer Science
+   - Soft Computing
+   - Intelligent Data Analysis
    - Big Data Research
    - Electronics Letters
    - Computers, Materials & Continua
