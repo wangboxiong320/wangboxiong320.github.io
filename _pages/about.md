@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "李家辉, 吉林大学"
+title: "王渤雄, 吉林大学"
 excerpt: ""
 author_profile: true
 language: "cn"
@@ -35,7 +35,7 @@ redirect_from:
 
 # 💼 个人简介
 
-李家辉，博士，吉林大学计算机科学与技术学院助理研究员，入选**<u>国家资助博士后研究人员计划 (C档)</u>** 和**<u>吉林大学“鼎新学者”支持计划</u>**。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**<u>中国商业联合会科学技术奖二等奖</u>**、**<u>宝钢优秀学生奖（研究生）</u>**、**<u>吉林大学十佳研究生</u>**、**<u>中国一汽“红旗”奖学金</u>**、**<u>INFOCOM 2021 Student Conference Award</u>**、**<u>国家奖学金</u>**、**<u>王湘浩奖学金</u>**、**<u>吉林省普通高校省级优秀大学生</u>**、**<u>吉林大学优秀博士学位论文</u>**、**<u>吉林省优秀硕士学位论文</u>**、**<u>优秀研究生</u>**、**<u>优秀毕业生</u>**等多项奖励和荣誉称号。
+<!-- 李家辉，博士，吉林大学计算机科学与技术学院助理研究员，入选**<u>国家资助博士后研究人员计划 (C档)</u>** 和**<u>吉林大学“鼎新学者”支持计划</u>**。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**<u>中国商业联合会科学技术奖二等奖</u>**、**<u>宝钢优秀学生奖（研究生）</u>**、**<u>吉林大学十佳研究生</u>**、**<u>中国一汽“红旗”奖学金</u>**、**<u>INFOCOM 2021 Student Conference Award</u>**、**<u>国家奖学金</u>**、**<u>王湘浩奖学金</u>**、**<u>吉林省普通高校省级优秀大学生</u>**、**<u>吉林大学优秀博士学位论文</u>**、**<u>吉林省优秀硕士学位论文</u>**、**<u>优秀研究生</u>**、**<u>优秀毕业生</u>**等多项奖励和荣誉称号。
 
 
 近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文30余篇，其中**<u>中国计算机学会推荐A类、B类期刊和会议及中科院1区20余篇</u>**，包括**<u>IEEE/ACM ToN</u>、<u>IEEE JSAC</u>、<u>IEEE TMC</u>、<u>IEEE TWC</u>、<u>IEEE TCOM</u>、<u>IEEE IoT-J</u>、<u>IEEE WCM</u>、<u>IEEE TIV</u>、<u>IEEE INFOCOM</u>、<u>IEEE GLOBECOM</u>、<u>IEEE WCNC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议；获得授权发明专利5项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**<u>国家资助博士后研究人员计划项目</u>**、**<u>中国博士后科学基金面上项目</u>**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等。
@@ -46,16 +46,16 @@ redirect_from:
 - 多目标优化
 - 深度强化学习与演化学习
 
-如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:lijiahui@jlu.edu.cn">lijiahui@jlu.edu.cn</a>）或微信（ljh1009501336）与我联系，期待您的见解与帮助。
-
+如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:lijiahui@jlu.edu.cn">lijiahui@jlu.edu.cn</a>）或微信（ljh1009501336）与我联系，期待您的见解与帮助。 -->
+Coming soon!
 
 <span class='anchor' id='-jyjl'></span>
 
 # 🎓 教育经历
-- *2021.09 - 2024.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，软件工程，博士，吉林长春，导师：<a href="https://sungeng207.github.io/">孙庚教授</a>
-- *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，联合培养，新加坡，导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a>
-- *2018.09 - 2021.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术，硕士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/19083.htm">康辉教授</a>
-- *2014.09 - 2018.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，学士，吉林长春
+- *2024.09 - 至今*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术，博士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>
+<!-- - *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，联合培养，新加坡，导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a> -->
+- *2021.09 - 2024.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，硕士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>
+- *2017.09 - 2021.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，学士，吉林长春
 
 <span class='anchor' id='-kyxm'></span>
 
@@ -63,27 +63,20 @@ redirect_from:
 
 ## 项目负责人
 
-1. 国家资助博士后研究人员计划 (C类)，基于分布式异构终端波束成形的地星上行通信优化方法研究，GZC20240592，2024/07-2026/07，24万元，在研，主持。
-2. 中国博士后基金面上项目，低空终端上行协作波束成形通信的生成式优化方法研究，2025/01-2026/12，8万，在研，主持。
-3. 吉林省教育厅科学研究项目一般项目，基于无人机协作波束成形的空天上行通信优化方法研究，2025/01-2026/12，2.5万元，在研，主持。
-4. 吉林大学研究生创新研究项目，蜂群无人机协作波束成形通信关键技术研究，2022028，2022/07-2023/05，0.6万元，已结题，主持。
+1. 吉林大学研究生创新研究项目，无人机辅助多系统异构网络的通信计算存储协同优化方法研究，2025CX210，2025/03-2026/05，0.4万元，在研，主持。
 
 ## 参与人
 1. 国家重点研发计划项目，视听触多通道融合的高沉浸式自然人机交互系统，2022YFB4500600，参与课题名称：多模态动作与意图协同感知与呈现技术，2022/10-2025/09，在研，参与。
-2. 国家重点研发计划项目，智能司法公开关键技术研究，2018YFC0831706，参与课题名称：司法公开评查技术研究及司法公开综合管理平台原型构建，2018/12-2021/12，已结题，参与。
-3. 国家自然科学基金面上项目，卫星物联网地发天收协作波束成形通信理论与优化方法研究，62471200，2025/01-2028/12，在研，参与。
-4. 国家自然科学基金面上项目，面向无人机网络协作安全通信的群体智能优化方法研究，62272194，2023/01-2026/12，在研，参与。
-5. 吉林省科技发展计划（重点研发）项目，分布式卫星协作波束成形高效数据传输关键技术研究，20230201087GX，2023/01-2025/12，在研，参与。
-6. 吉林省科技发展计划项目，20200201166JC，基于云边协同的物联网微服务的研究， 2020/01-2022/12，已结题，参与。
-7. 中央引导地方科技发展资金自由探索类基础研究项目，2021Szvup047，未来网络中的信息数据处理成本最小化研究，2021/07-2023/06，已结题，参与。
-
+2. 吉林省科技发展计划项目，20200201166JC，基于云边协同的物联网微服务的研究， 2020/01-2022/12，已结题，参与。
+3. 中央引导地方科技发展资金自由探索类基础研究项目，2021Szvup047，未来网络中的信息数据处理成本最小化研究，2021/07-2023/06，已结题，参与。
+4. 吉林大学研究生创新研究项目，2022155，成本感知的医疗多目标特征选择方法研究，2022/07-2023/05，0.2万元，已结题，参与。
 
 
 <span class='anchor' id='-xscg'></span>
 
 # 📝 代表性学术成果
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2024</div><img src='/images/jsac2024.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2024</div><img src='/images/jsac2024.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Qingqing Wu**\***, Dusit Niyato, Jiawen Kang, Abbas Jamalipour, Victor C.M. Leung. Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning, *IEEE Journal on Selected Areas in Communications*, 2024. **(IF=13.8) (SCI, 中科院1区，CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10679228)
@@ -157,24 +150,25 @@ redirect_from:
 - Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**
 - Bingtian Li, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. **(CCF C类会议)**
 - Geng Sun, Bei Liu, **<u>Jiahui Li</u>****\***, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
-- Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
+- Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)** -->
+Coming soon!
 
-<span class='anchor' id='-fmzl'></span>
+<!-- <span class='anchor' id='-fmzl'></span>
 
 # 💡 发明专利
 
-1. 一种基于虚拟阵列天线协作波束成形的无人机中继通信方法，专利号：ZL202111147066.X，**<u>李家辉</u>**、孙庚、郑晓雅、刘衍珩、梁爽、王爱民
+1. 一种基于改进蜜獾算法的物联网设备识别特征提取与选择方法，专利号：CN202211307323.6，**<u>李家辉</u>**、孙庚、郑晓雅、刘衍珩、梁爽、王爱民
 2. 一种无人机蜂群安全通信方法，专利号：ZL202210003107.6，孙庚、郑晓雅、**<u>李家辉</u>**、王爱民、梁爽、刘昭、孙泽敏、刘衍珩
 3. 一种基于多目标优化的卫星认知无线电低干扰通信方法，专利号：ZL 202411730633.8，康辉、张超、刘琦、**<u>李家辉</u>**、李洪娟
 4. 一种无人机辅助的无线传感器网络节点充电选择方法，专利号：ZL202111008945.4，潘弘洋、孙庚、刘衍珩、**<u>李家辉</u>**、梁爽、王爱民、郑晓雅、樊俊松
 5. 一种车雾辅助无人机灾后救援任务卸载方法，专利号：ZL202210788909.2，孙庚、何龙、孙泽敏、梁爽、**<u>李家辉</u>**、郑晓雅、张嘉赟
-6. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽
+6. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽 -->
 
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
 
-1. 2023年度宝钢优秀学生奖(研究生) ***(全校3人)***
+<!-- 1. 2023年度宝钢优秀学生奖(研究生) ***(全校3人)***
 2. 2024吉林大学十佳研究生 ***(研究生最高荣誉，全校10人)***
 3. 2023年吉林省普通高校省级优秀大学生
 4. 中国商业联合会科学技术奖二等奖 (2023年)：分布式协作波束成形动态多目标优化方法及应用 (9/12)
@@ -188,9 +182,9 @@ redirect_from:
 12. 研究生优秀奖学金一等 (2020年度、2022年度、2023年度)
 13. 优秀研究生 (2020年度、2022年度、2023年度)
 14. 优秀毕业生 (2021年、2024年)
-15. 吉林大学第十五届博士生国际学术论坛交通分论坛墙报优秀奖
+15. 吉林大学第十五届博士生国际学术论坛交通分论坛墙报优秀奖 -->
 
-<span class='anchor' id='-xsjz'></span>
+<!-- <span class='anchor' id='-xsjz'></span>
 
 # 🏛️ 学术兼职
 1. 中国通信学会会员
@@ -220,4 +214,4 @@ redirect_from:
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
 9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
-
+ -->

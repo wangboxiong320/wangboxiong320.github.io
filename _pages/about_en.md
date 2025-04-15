@@ -1,6 +1,6 @@
 ---
 permalink: /en/
-title: "Jiahui Li, JLU"
+title: "Boxiong Wang, JLU"
 excerpt: ""
 author_profile: true
 language: "en"
@@ -68,7 +68,7 @@ Coming soon!
 
 # 📝 Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2024</div><img src='/images/jsac2024.gif' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2024</div><img src='/images/jsac2024.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **<u>Jiahui Li</u>**, Geng Sun**\***, Qingqing Wu**\***, Dusit Niyato, Jiawen Kang, Abbas Jamalipour, Victor C.M. Leung. Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning, *IEEE Journal on Selected Areas in Communications*, 2024. **(IF=13.8) (SCI, 中科院1区，CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10679228)
@@ -138,18 +138,19 @@ Coming soon!
 - Zeqian Wei, Hui Kang, Hongjuan Li, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xinyu Bao, Bo Zhu, Joint Feature Selection and Classifier Parameter Optimization: A Bio-inspired Approach, *The 16th International Conference on Knowledge Science, Engineering and Management (KSEM 2023)*. **(CCF C类会议)**
 - Bingtian Li, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. **(CCF C类会议)**
 - Geng Sun, Bei Liu, **<u>Jiahui Li</u>****\***, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
-- Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
+- Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)** -->
+Coming soon!
 
-<span class='anchor' id='-fmzl'></span>
+<!-- <span class='anchor' id='-fmzl'></span>
 
 # 💡 Patent
 
-<!-- 1. 一种基于虚拟阵列天线协作波束成形的无人机中继通信方法，专利号：ZL202111147066.X，**<u>李家辉</u>**、孙庚、郑晓雅、刘衍珩、梁爽、王爱民
+1. 一种基于虚拟阵列天线协作波束成形的无人机中继通信方法，专利号：ZL202111147066.X，**<u>李家辉</u>**、孙庚、郑晓雅、刘衍珩、梁爽、王爱民
 2. 一种无人机蜂群安全通信方法，专利号：ZL202210003107.6，孙庚、郑晓雅、**<u>李家辉</u>**、王爱民、梁爽、刘昭、孙泽敏、刘衍珩
 3. 一种无人机辅助的无线传感器网络节点充电选择方法，专利号：ZL202111008945.4，潘弘洋、孙庚、刘衍珩、**<u>李家辉</u>**、梁爽、王爱民、郑晓雅、樊俊松
 4. 一种车雾辅助无人机灾后救援任务卸载方法，专利号：ZL202210788909.2，孙庚、何龙、孙泽敏、梁爽、**<u>李家辉</u>**、郑晓雅、张嘉赟
-5. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽 -->
-Coming soon!
+5. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽
+Coming soon! -->
 
 <span class='anchor' id='-ryjx'></span>
 
@@ -172,10 +173,10 @@ Coming soon!
 15. 吉林大学第十五届博士生国际学术论坛交通分论坛墙报优秀奖 -->
 Coming soon!
 
-<span class='anchor' id='-xsjz'></span>
+<!-- <span class='anchor' id='-xsjz'></span>
 
 # 🏛️ Academic Jobs
-<!-- 1. 中国通信学会会员
+1. 中国通信学会会员
 2. 《海南大学学报(自然科学版)》青年编委
 3. Guest Editor, Electronics, Special Issue on "[Empowering IoT With AI: AIoT for Smart and Autonomous Systems](https://www.mdpi.com/journal/electronics/special_issues/25EZI4E691)"
 4. WiOpt 2023 volunteer
@@ -197,6 +198,6 @@ Coming soon!
    - Computers, Materials & Continua
    - IEEE ICC 2022
    - IEEE SMC 2022, 2023
-9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度) -->
-Coming soon!
+9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
+Coming soon! -->
 

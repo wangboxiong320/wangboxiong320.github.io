@@ -16,14 +16,14 @@ main:
     - title: "📝 代表性学术成果"
       url: "/#-xscg"
 
-    - title: "💡 发明专利"
-      url: "/#-fmzl"
+    # - title: "💡 发明专利"
+    #   url: "/#-fmzl"
 
     - title: "🏅 荣誉奖项"
       url: "/#-ryjx"
 
-    - title: "🏛️ 学术兼职"
-      url: "/#-xsjz"
+    # - title: "🏛️ 学术兼职"
+    #   url: "/#-xsjz"
 
   en:
     - title: "🎉 News"
@@ -41,11 +41,11 @@ main:
     - title: "📝 Publications"
       url: "/en/#-xscg"
 
-    - title: "💡 Patent"
-      url: "/en/#-fmzl"
+    # - title: "💡 Patent"
+    #   url: "/en/#-fmzl"
 
     - title: "🏅 Rewards"
       url: "/en/#-ryjx"
 
-    - title: "🏛️ Academic"
-      url: "/en/#-xsjz"
+    # - title: "🏛️ Academic"
+    #   url: "/en/#-xsjz"
