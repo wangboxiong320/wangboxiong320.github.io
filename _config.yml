@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "李家辉"
+title                    : "王渤雄"
 description              : ""
-repository               : "lijiahui-jlu/lijiahui-jlu.github.io"
+repository               : "wangboxiong320/wangboxiong320.github.io"
 google_scholar_stats_use_cdn : True
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "李家辉"
-  avatar           : "/images/lijiahui-photo-512x512.png"
-  bio              : "助理研究员"
+  name             : "王渤雄"
+  avatar           : "/images/wangboxiong-photo-512x512.png"
+  bio              : "博士研究生"
   location         : "吉林 长春"
   employer         : "吉林大学"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6Jyyr0AAAAAJ"
-  email            : "lijiahui@jlu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jiahui-Li-40"
+  googlescholar    : "https://scholar.google.com/citations?user=be-CgXIAAAAJ"
+  email            : "wangbx0320@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Boxiong-Wang-4"
   uri              : 
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lijiahui-jlu"
+  github           : "wangboxiong320"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +45,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-7454-3257"
+  orcid            : "https://orcid.org/0000-0002-8919-474X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
@@ -59,15 +59,15 @@ author:
   wikipedia        :
   
 author-en:
-  name             : "Jiahui Li"
-  avatar           : "/images/lijiahui-photo-512x512.png"
-  bio              : "Associate Researcher"
+  name             : "Boxiong Wang"
+  avatar           : "/images/wangboxiong-photo-512x512.png"
+  bio              : "Ph.D. Student"
   location         : "Changchun, Jilin"
   employer         : "Jilin University"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=6Jyyr0AAAAAJ"
-  email            : "lijiahui@jlu.edu.cn"
-  researchgate     : "https://www.researchgate.net/profile/Jiahui-Li-40"
+  googlescholar    : "https://scholar.google.com/citations?user=be-CgXIAAAAJ"
+  email            : "wangbx0320@163.com"
+  researchgate     : "https://www.researchgate.net/profile/Boxiong-Wang-4"
   uri              : 
   bitbucket        :
   codepen          :
@@ -75,7 +75,7 @@ author-en:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "lijiahui-jlu"
+  github           : "wangboxiong320"
   google_plus      :
   keybase          :
   instagram        :
@@ -83,7 +83,7 @@ author-en:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : "https://orcid.org/0000-0002-7454-3257"
+  orcid            : "https://orcid.org/0000-0002-8919-474X"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
