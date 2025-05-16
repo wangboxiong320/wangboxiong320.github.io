@@ -38,9 +38,13 @@ In the past five years, he has published a total of 4 papers as the first author
 The main research directions are:
 
 Space-air-ground integrated network (SAGIN)
+
 Mobile edge computing and data collection
+
 Heterogeneous collaborative communication
+
 Multi-objective optimization
+
 Diffusion model, deep reinforcement learning and evolutionary learning
 
 If you are willing to provide guidance and cooperation, please feel free to contact me by email (<a href="mailto:wangbx0320@163.com">wangbx0320@163.com</a>) or WeChat (wbx0320v). I look forward to your insights and help.
@@ -52,9 +56,9 @@ If you are willing to provide guidance and cooperation, please feel free to cont
 - *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，新加坡，导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a>
 - *2018.09 - 2021.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术，硕士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/19083.htm">康辉教授</a>
 - *2014.09 - 2018.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，学士，吉林长春 -->
-- *2024.09 - now*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university，college of computer science and technology, computer application technology, Ph.d., Changchun Jilin, supervisor：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">Professor Hui Kang</a>, co-supervisor: <a href="https://sungeng207.github.io/">Professor Geng Sun</a>
+- *2024.09 - now*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university，college of computer science and technology, computer application technology, Ph.D., Changchun Jilin, supervisor：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">Prof. Hui Kang</a>, co-supervisor: <a href="https://sungeng207.github.io/">Prof. Geng Sun</a>
 <!-- - *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，联合培养，新加坡，导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a> -->
-- *2021.09 - 2024.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university, college of software, software engineering, master, Changchun Jilin, supervisor：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">Professor Hui Kang</a>
+- *2021.09 - 2024.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university, college of software, software engineering, master, Changchun Jilin, supervisor：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">Prof. Hui Kang</a>
 - *2017.09 - 2021.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university, college of software, software engineering, bachelor, Changchun Jilin
 
 <span class='anchor' id='-kyxm'></span>
@@ -63,7 +67,7 @@ If you are willing to provide guidance and cooperation, please feel free to cont
 
 ## Project Leader
 
-1. Jilin University Graduate Innovation Research Project, Research on Communication, Computing and Storage Co-optimization Methods for UAV-Assisted Multi-system Heterogeneous Networks, 2025CX210, 2025/03-2026/05, RMB 4,000, Ongoing, Host.
+1. Jilin University Graduate Innovation Research Project, Research on Communication, Computing and Storage Co-optimization Methods for UAV-Assisted Multi-system Heterogeneous Networks, 2025CX210, 2025/03-2026/05, Ongoing, Host.
 
 ## Participants
 1. National Key R&D Program Project, Highly Immersive Natural Human-Computer Interaction System with Multi-channel Integration of Audiovisual and Touch, 2022YFB4500600, Participating Project Name: Multimodal Action and Intention Co-perception and Presentation Technology, 2022/10-2025/09, Ongoing, Participating.
