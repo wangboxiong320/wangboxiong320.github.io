@@ -35,6 +35,16 @@ Boxiong Wang is a 2024 Ph.D. student at the School of Computer Science and Techn
 
 In the past five years, he has published a total of 4 papers as the first author and corresponding author, including **<u>IEEE IoT-J</u>, <u>ASOC</u>, <u>IEEE UIC</u>** and **<u>IEEE ICC</u>** and other high-level journals and academic conferences. He presided over the **<u>Jilin University Graduate Innovation Research Project</u>** and participated in many national key R&D projects and provincial and ministerial general projects.
 
+The main research directions are:
+
+Space-air-ground integrated network (SAGIN)
+Mobile edge computing and data collection
+Heterogeneous collaborative communication
+Multi-objective optimization
+Diffusion model, deep reinforcement learning and evolutionary learning
+
+If you are willing to provide guidance and cooperation, please feel free to contact me by email (wangbx0320@163.com) or WeChat (wbx0320v). I look forward to your insights and help.
+
 <span class='anchor' id='-jyjl'></span>
 
 # 🎓 Education
