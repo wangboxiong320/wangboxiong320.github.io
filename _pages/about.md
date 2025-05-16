@@ -87,7 +87,7 @@ redirect_from:
 
 # 📝 代表性学术成果
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='/images/iotj2025.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='/images/iotj2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 - **<u>Boxiong Wang</u>**, Hui Kang, Jiahui Li**\***, Geng Sun**\***, Zemin Sun, Jiacheng Wang, Dusit Niyato. UAV-Assisted Joint Mobile Edge Computing and Data Collection via Matching-Enabled Deep Reinforcement Learning, *IEEE Internet of Things Journal*, 2025. **(IF=8.2) (SCI, 中科院2区，CCF C类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10887202/)
@@ -95,7 +95,7 @@ redirect_from:
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2024</div><img src='/images/asoc2024.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2024</div><img src='/images/asoc2024.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	**<u>Boxiong Wang</u>**, Hui Kang, Geng Sun**\***, Jiahui Li**\***, Efficient traffic-based IoT device identification using a feature selection approach with Lévy flight-based sine chaotic sub-swarm binary honey badger algorithm, *Applied Soft Computing (ASOC 2024)*. **(IF=7.2) (SCI, 中科院2区)** [[IEEE Xplore]](https://linkinghub.elsevier.com/retrieve/pii/S1568494624002291)
