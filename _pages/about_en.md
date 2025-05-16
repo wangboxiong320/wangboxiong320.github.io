@@ -43,7 +43,7 @@ Heterogeneous collaborative communication
 Multi-objective optimization
 Diffusion model, deep reinforcement learning and evolutionary learning
 
-If you are willing to provide guidance and cooperation, please feel free to contact me by email (wangbx0320@163.com) or WeChat (wbx0320v). I look forward to your insights and help.
+If you are willing to provide guidance and cooperation, please feel free to contact me by email (<a href="mailto:wangbx0320@163.com">wangbx0320@163.com</a>) or WeChat (wbx0320v). I look forward to your insights and help.
 
 <span class='anchor' id='-jyjl'></span>
 
