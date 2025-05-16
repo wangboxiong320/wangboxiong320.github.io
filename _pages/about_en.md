@@ -61,22 +61,15 @@ If you are willing to provide guidance and cooperation, please feel free to cont
 
 # 🔬 Research Projects
 
-<!-- ## 项目负责人
+## Project Leader
 
-1. 国家资助博士后研究人员计划 (C类)，基于分布式异构终端波束成形的地星上行通信优化方法研究，GZC20240592，2024/07-2026/07，24万元，在研，主持。
-2. 中国博士后基金面上项目，低空终端上行协作波束成形通信的生成式优化方法研究，2025/01-2026/12，8万，在研，主持。
-3. 吉林省教育厅科学研究项目一般项目，基于无人机协作波束成形的空天上行通信优化方法研究，2025/01-2026/12，2.5万元，在研，主持。
-4. 吉林大学研究生创新研究项目，蜂群无人机协作波束成形通信关键技术研究，2022028，2022/07-2023/05，0.6万元，已结题，主持。
+1. Jilin University Graduate Innovation Research Project, Research on Communication, Computing and Storage Co-optimization Methods for UAV-Assisted Multi-system Heterogeneous Networks, 2025CX210, 2025/03-2026/05, RMB 4,000, Ongoing, Host.
 
-## 参与人
-1. 国家重点研发计划项目，视听触多通道融合的高沉浸式自然人机交互系统，2022YFB4500600，参与课题名称：多模态动作与意图协同感知与呈现技术，2022/10-2025/09，在研，参与。
-2. 国家重点研发计划项目，智能司法公开关键技术研究，2018YFC0831706，参与课题名称：司法公开评查技术研究及司法公开综合管理平台原型构建，2018/12-2021/12，已结题，参与。
-3. 国家自然科学基金面上项目，卫星物联网地发天收协作波束成形通信理论与优化方法研究，62471200，2025/01-2028/12，在研，参与。
-4. 国家自然科学基金面上项目，面向无人机网络协作安全通信的群体智能优化方法研究，62272194，2023/01-2026/12，在研，参与。
-5. 吉林省科技发展计划（重点研发）项目，分布式卫星协作波束成形高效数据传输关键技术研究，20230201087GX，2023/01-2025/12，在研，参与。
-6. 吉林省科技发展计划项目，20200201166JC，基于云边协同的物联网微服务的研究， 2020/01-2022/12，已结题，参与。
-7. 中央引导地方科技发展资金自由探索类基础研究项目，2021Szvup047，未来网络中的信息数据处理成本最小化研究，2021/07-2023/06，已结题，参与。 -->
-Coming soon!
+## Participants
+1. National Key R&D Program Project, Highly Immersive Natural Human-Computer Interaction System with Multi-channel Integration of Audiovisual and Touch, 2022YFB4500600, Participating Project Name: Multimodal Action and Intention Co-perception and Presentation Technology, 2022/10-2025/09, Ongoing, Participating.
+2. Jilin Province Science and Technology Development Plan Project, 20200201166JC, Research on IoT Microservices Based on Cloud-edge Collaboration, 2020/01-2022/12, Completed, Participating.
+3. Basic research project of free exploration of local science and technology development funds guided by the central government, 2021Szvup047, research on minimizing the cost of information data processing in future networks, 2021/07-2023/06, completed, participated.
+4. Jilin University Graduate Innovation Research Project, 2022155, research on cost-aware medical multi-objective feature selection method, 2022/07-2023/05, 0.2 million yuan, completed, participated.
 
 
 <span class='anchor' id='-xscg'></span>
