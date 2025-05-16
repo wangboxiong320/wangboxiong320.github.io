@@ -47,7 +47,9 @@ redirect_from:
 - 深度强化学习与演化学习
 
 如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:lijiahui@jlu.edu.cn">lijiahui@jlu.edu.cn</a>）或微信（ljh1009501336）与我联系，期待您的见解与帮助。 -->
-Coming soon!
+王渤雄，吉林大学计算机科学与技术学院2024级博士研究生，博士生导师为康辉教授，博士生合作导师为孙庚教授。此前，于吉林大学软件学院获得工学硕士学位，硕士生导师为康辉教授。曾获学业奖学金、研究生优秀奖学金、苏州工业园区奖学金、优秀研究生、优秀毕业研究生等多项奖励和荣誉称号。
+
+近5年，以第一作者、通信作者身份共计发表论文4篇，其中**<u>中科院2区、中国计算机学会推荐C类会议4篇</u>**，包括**<u>IEEE IoT-J</u>、<u>ASOC</u>、<u>IEEE UIC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议。主持**<u>吉林大学研究生创新研究项目</u>**，并参加多项国家重点研发项目和省部级面上项目等。
 
 <span class='anchor' id='-jyjl'></span>
 
@@ -76,20 +78,26 @@ Coming soon!
 
 # 📝 代表性学术成果
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">JSAC 2024</div><img src='/images/jsac2024.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='/images/iotj2025.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **<u>Jiahui Li</u>**, Geng Sun**\***, Qingqing Wu**\***, Dusit Niyato, Jiawen Kang, Abbas Jamalipour, Victor C.M. Leung. Collaborative Ground-Space Communications via Evolutionary Multi-objective Deep Reinforcement Learning, *IEEE Journal on Selected Areas in Communications*, 2024. **(IF=13.8) (SCI, 中科院1区，CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10679228)
+- **<u>Boxiong Wang</u>**, Hui Kang, Jiahui Li**\***, Geng Sun**\***, Zemin Sun, Jiacheng Wang, Dusit Niyato. UAV-Assisted Joint Mobile Edge Computing and Data Collection via Matching-Enabled Deep Reinforcement Learning, *IEEE Internet of Things Journal*, 2025. **(IF=8.2) (SCI, 中科院2区，CCF C类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10887202/)
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">INFOCOM 2024</div><img src='/images/infocom2024.gif' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASOC 2024</div><img src='/images/asoc2024.gif' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	**<u>Jiahui Li</u>**, Geng Sun**\***, Qingqing Wu, Shuang Liang**\***, Pengfei Wang, Dusit Niyato, Two-Way Aerial Secure Communications via Distributed Collaborative Beamforming under Eavesdropper Collusion, *IEEE International Conference on Computer Communications (IEEE INFOCOM 2024)*. **(CCF A类会议)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10621264)
+-	**<u>Boxiong Wang</u>**, Hui Kang, Geng Sun**\***, Jiahui Li**\***, Efficient traffic-based IoT device identification using a feature selection approach with Lévy flight-based sine chaotic sub-swarm binary honey badger algorithm, *Applied Soft Computing (ASOC 2024)*. **(IF=7.2) (SCI, 中科院2区)** [[IEEE Xplore]](https://linkinghub.elsevier.com/retrieve/pii/S1568494624002291)
 
 </div>
+</div>
+
+- Chao Zhang, Hui Kang, Geng Sun, Jiahui Li, **<u>Boxiong Wang</u>****\***, Bo Xu**\***. Enhanced Multi-Objective Optimization Approach for Low-Interference UAV Communication Based on Collaborative Beamforming, *IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)*, 2024. **(CCF C类会议, <font color="#C00000">Best Paper Award at the Special Session on Intelligent Signal Processing</font>)**
+
+- **<u>Boxiong Wang</u>**, Hui Kang, Geng Sun**\***, Jiahui Li**\***, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**
+<!-- </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2023</div><img src='/images/tmc2023.gif' alt="sym" width="100%"></div></div>
@@ -151,7 +159,6 @@ Coming soon!
 - Bingtian Li, Hui Kang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xinyu Bao, Bo Zhu, Aerial Data Transmission under Disasters: Multi-hop Network Exploiting UAV-enabled Virtual Antenna Arrays, *IEEE Wireless Communications and Networking Conference (IEEE WCNC 2024)*. **(CCF C类会议)**
 - Geng Sun, Bei Liu, **<u>Jiahui Li</u>****\***, Shuang Liang, Hongyang Pan, Xiaoya Zheng, Enabling Urban MmWave Communications with UAV-Carried IRS via Deep Reinforcement Learning, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)**
 - Jiawei Huang, Aimin Wang, Geng Sun**\***, **<u>Jiahui Li</u>****\***, Xiaoya Zheng, Physical Layer Encrypted Maritime Communications Utilizing UAV-enabled Virtual Antenna Array, *IEEE International Conference on Communications (IEEE ICC 2024)*. **(CCF C类会议)** -->
-Coming soon!
 
 <!-- <span class='anchor' id='-fmzl'></span>
 
@@ -167,6 +174,11 @@ Coming soon!
 <span class='anchor' id='-ryjx'></span>
 
 # 🏅 荣誉奖项
+1. 吉林大学软件学院2023年度学业奖学金
+2. 吉林大学2022-2023学年二等研究生优秀奖学金
+3. 吉林大学2023年度苏州工业园区奖学金
+4. 吉林大学2022-2023学年优秀研究生荣誉称号
+5. 吉林大学2024届优秀毕业研究生
 
 <!-- 1. 2023年度宝钢优秀学生奖(研究生) ***(全校3人)***
 2. 2024吉林大学十佳研究生 ***(研究生最高荣誉，全校10人)***
@@ -183,7 +195,7 @@ Coming soon!
 13. 优秀研究生 (2020年度、2022年度、2023年度)
 14. 优秀毕业生 (2021年、2024年)
 15. 吉林大学第十五届博士生国际学术论坛交通分论坛墙报优秀奖 -->
-Coming soon!
+
 
 <!-- <span class='anchor' id='-xsjz'></span>
 
