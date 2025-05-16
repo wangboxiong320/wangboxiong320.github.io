@@ -51,10 +51,18 @@ redirect_from:
 
 近5年，以第一作者、通信作者身份共计发表论文4篇，其中**<u>中科院2区、中国计算机学会推荐C类会议4篇</u>**，包括**<u>IEEE IoT-J</u>、<u>ASOC</u>、<u>IEEE UIC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议。主持**<u>吉林大学研究生创新研究项目</u>**，并参加多项国家重点研发项目和省部级面上项目等。
 
+主要研究方向为：
+- 空天地一体化网络
+- 异构协作通信
+- 多目标优化
+- 扩散模型、深度强化学习与演化学习
+
+如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:wangbx0320@163.com">wangbx0320@163.com</a>）或微信（wbx0320v）与我联系，期待您的见解与帮助。
+
 <span class='anchor' id='-jyjl'></span>
 
 # 🎓 教育经历
-- *2024.09 - 至今*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术，博士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>
+- *2024.09 - 至今*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术，博士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>、合作导师：<a href="https://sungeng207.github.io/">孙庚教授</a>
 <!-- - *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，联合培养，新加坡，导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a> -->
 - *2021.09 - 2024.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，硕士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>
 - *2017.09 - 2021.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，学士，吉林长春
