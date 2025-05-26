@@ -31,7 +31,7 @@ language: "en"
 
 # 💼 Introduction
 
-I am currently a 2024 Ph.D. candidate at the School of Computer Science and Technology, Jilin University. My doctoral supervisor is Prof. Hui Kang and my doctoral co-supervisor is Prof. Geng Sun. Prior to this, I obtained a master's degree in engineering from the School of Software, Jilin University, and my master's supervisor was Prof. Hui Kang. I have won many awards and honorary titles, including academic scholarships, excellent graduate student scholarships, Suzhou Industrial Park scholarships, outstanding graduate students, and outstanding graduate students.
+I am currently a Ph.D. candidate at the School of Computer Science and Technology, Jilin University. My doctoral supervisor is Prof. Hui Kang and my doctoral co-supervisor is Prof. Geng Sun. Prior to this, I obtained a master's degree in engineering from the School of Software, Jilin University, and my master's supervisor was Prof. Hui Kang. I have won many awards and honorary titles, including academic scholarships, excellent graduate student scholarships, Suzhou Industrial Park scholarships, outstanding graduate students, and outstanding graduate students.
 
 In the past two years, I have published a total of 4 papers as the first author and corresponding author, including **<u>IEEE IoT-J</u>, <u>ASOC</u>, <u>IEEE UIC</u>** and **<u>IEEE ICC</u>** and other high-level journals and academic conferences. He presided over the **<u>Jilin University Graduate Innovation Research Project</u>** and participated in many national key R&D projects and provincial and ministerial general projects.
 
