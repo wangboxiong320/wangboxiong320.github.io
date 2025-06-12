@@ -107,6 +107,7 @@ redirect_from:
 
 - **<u>Boxiong Wang</u>**, Hui Kang, Geng Sun**\***, Jiahui Li**\***, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**
 
+<span class='anchor' id='-fmzl'></span>
 
 # 💡 发明专利
 
