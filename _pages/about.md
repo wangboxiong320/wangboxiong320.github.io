@@ -90,7 +90,7 @@ redirect_from:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='/images/iotj2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-- **<u>Boxiong Wang</u>**, Hui Kang, Jiahui Li**\***, Geng Sun**\***, Zemin Sun, Jiacheng Wang, Dusit Niyato. UAV-Assisted Joint Mobile Edge Computing and Data Collection via Matching-Enabled Deep Reinforcement Learning, *IEEE Internet of Things Journal*, 2025. **(IF=8.2) (SCI, 中科院2区，CCF C类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10887202/)
+- **<u>Boxiong Wang</u>**, Hui Kang, Jiahui Li**\***, Geng Sun**\***, Zemin Sun, Jiacheng Wang, Dusit Niyato. AAV-Assisted Joint Mobile Edge Computing and Data Collection via Matching-Enabled Deep Reinforcement Learning, *IEEE Internet of Things Journal*, 2025. **(IF=8.2) (SCI, 中科院2区，CCF C类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/10887202)
 
 </div>
 </div>
@@ -108,14 +108,10 @@ redirect_from:
 - **<u>Boxiong Wang</u>**, Hui Kang, Geng Sun**\***, Jiahui Li**\***, IoT Device Identification via A Bio-Inspired Feature Selection Approach, *IEEE International Conference on Communications (IEEE ICC 2023)*. **(CCF C类会议)**
 
 
-<!-- # 💡 发明专利
+# 💡 发明专利
 
-1. 一种基于改进蜜獾算法的物联网设备识别特征提取与选择方法，专利号：CN202211307323.6，**<u>李家辉</u>**、孙庚、郑晓雅、刘衍珩、梁爽、王爱民
-2. 一种无人机蜂群安全通信方法，专利号：ZL202210003107.6，孙庚、郑晓雅、**<u>李家辉</u>**、王爱民、梁爽、刘昭、孙泽敏、刘衍珩
-3. 一种基于多目标优化的卫星认知无线电低干扰通信方法，专利号：ZL 202411730633.8，康辉、张超、刘琦、**<u>李家辉</u>**、李洪娟
-4. 一种无人机辅助的无线传感器网络节点充电选择方法，专利号：ZL202111008945.4，潘弘洋、孙庚、刘衍珩、**<u>李家辉</u>**、梁爽、王爱民、郑晓雅、樊俊松
-5. 一种车雾辅助无人机灾后救援任务卸载方法，专利号：ZL202210788909.2，孙庚、何龙、孙泽敏、梁爽、**<u>李家辉</u>**、郑晓雅、张嘉赟
-6. 一种提升地面用户通信性能的空中基站部署方法，专利号：ZL202111209135.5，刘玲玲、王爱民、孙庚、吴静、**<u>李家辉</u>**、梁爽、郑婷婷、李琛泽 -->
+1. 一种基于改进蜜獾算法的物联网设备识别特征提取与选择方法，申请号：CN202211307323.6，康辉、**<u>王渤雄</u>**、李家辉、李洪娟
+
 
 <span class='anchor' id='-ryjx'></span>
 
