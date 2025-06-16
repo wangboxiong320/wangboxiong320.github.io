@@ -49,7 +49,7 @@ redirect_from:
 如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:lijiahui@jlu.edu.cn">lijiahui@jlu.edu.cn</a>）或微信（ljh1009501336）与我联系，期待您的见解与帮助。 -->
 王渤雄，吉林大学计算机科学与技术学院2024级博士研究生，博士生导师为康辉教授，博士生合作导师为孙庚教授。此前，于吉林大学软件学院获得工学硕士学位，硕士生导师为康辉教授。曾获学业奖学金、研究生优秀奖学金、苏州工业园区奖学金、优秀研究生、优秀毕业研究生等多项奖励和荣誉称号。
 
-近5年，以第一作者、通信作者身份共计发表论文4篇，其中**<u>中科院2区</u>、<u>中国计算机学会推荐C类会议</u>**4篇，包括**<u>IEEE IoT-J</u>、<u>ASOC</u>、<u>IEEE UIC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议。主持**<u>吉林大学研究生创新研究项目</u>**，并参加多项国家重点研发项目和省部级面上项目等。
+近5年，以第一作者、通信作者身份等共计发表论文5篇，其中**<u>中科院2区</u>、<u>中国计算机学会推荐C类会议</u>**5篇，包括**<u>IEEE IoT-J</u>、<u>ASOC</u>、<u>IEEE UIC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议。主持**<u>吉林大学研究生创新研究项目</u>**，并参加多项国家重点研发项目和省部级面上项目等。
 
 主要研究方向为：
 - 空天地一体化网络
@@ -102,6 +102,8 @@ redirect_from:
 
 </div>
 </div>
+
+- Yue Chen, Hui Kang, Jiahui Li, Geng Sun, **<u>Boxiong Wang</u>**, Jiacheng Wang, Cong Liang, Shuang Liang, Dusit Niyato. Joint Resource Management for Energy-efficient UAV-assisted SWIPT-MEC: A Deep Reinforcement Learning Approach, *IEEE Internet of Things Journal*, 2025. **(IF=8.2) (SCI, 中科院2区，CCF C类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/abstract/document/11016724)
 
 - Chao Zhang, Hui Kang, Geng Sun, Jiahui Li, **<u>Boxiong Wang</u>****\***, Bo Xu**\***. Enhanced Multi-Objective Optimization Approach for Low-Interference UAV Communication Based on Collaborative Beamforming, *IEEE International Conference on Ubiquitous Intelligence and Computing (UIC 2024)*, 2024. **(CCF C类会议, <font color="#C00000">Best Paper Award at the Special Session on Intelligent Signal Processing</font>)**
 
