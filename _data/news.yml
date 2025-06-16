@@ -1,5 +1,8 @@
 # news items
 items:
+
+  - date: '05/2025'
+    content: 'Our paper "Joint Resource Management for Energy-efficient UAV-assisted SWIPT-MEC: A Deep Reinforcement Learning Approach" has been accepted by IEEE Internet of Things Journal (中科院1区)!'
     
   - date: '02/2025'
     content: 'Our paper "UAV-assisted Joint Mobile Edge Computing and Data Collection via Matching-enabled Deep Reinforcement Learning" has been accepted by IEEE Internet of Things Journal (第一作者, 中科院1区)!'
