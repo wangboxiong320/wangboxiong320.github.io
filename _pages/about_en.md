@@ -106,7 +106,7 @@ If you are willing to provide guidance and cooperation, please feel free to cont
 
 # 💡 Patent
 
-1. A feature extraction and selection method for IoT device identification based on improved honey badger algorithm, application number: CN202211307323.6, Hui Kang, **<u>Boxiong Wang</u>**, Geng Sun, Jiahui Li, Hongjuan Li
+1. A feature extraction and selection method for IoT device identification based on improved honey badger algorithm, patent number: ZL202211307323.6, Hui Kang, **<u>Boxiong Wang</u>**, Geng Sun, Jiahui Li, Hongjuan Li
 
 <span class='anchor' id='-ryjx'></span>
 
