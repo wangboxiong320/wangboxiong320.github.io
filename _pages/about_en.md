@@ -53,7 +53,7 @@ If you are willing to provide guidance and cooperation, please feel free to cont
 
 # 🎓 Education
 - *2025.07 - now*, <a href="https://bjzgca.edu.cn/"><img class="svg" src="/images/bgzgca.png" width="120pt"></a><a href="https://www.zgci.ac.cn/"><img class="svg" src="/images/bgzgca2.png" width="140pt"></a> Beijing Zhongguancun Academy, Research on Large-Model Security for Autonomous Driving, Joint Ph.D. student, Beijing, co-supervisor: <a href="http://shi.buaa.edu.cn/09138/zh_CN/index.htm">Prof. Daxin Tian</a>
-- *2024.09 - now*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university，college of computer science and technology, computer application technology, Ph.D., Changchun Jilin, supervisor：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">Prof. Hui Kang</a>, co-supervisor: <a href="https://sungeng207.github.io/">Prof. Geng Sun</a>
+- *2024.09 - now*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university, college of computer science and technology, computer application technology, Ph.D., Changchun Jilin, supervisor：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">Prof. Hui Kang</a>, co-supervisor: <a href="https://sungeng207.github.io/">Prof. Geng Sun</a>
 - *2021.09 - 2024.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university, college of software, software engineering, master, Changchun Jilin, supervisor：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">Prof. Hui Kang</a>
 - *2017.09 - 2021.06*, <a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> Jilin university, college of software, software engineering, bachelor, Changchun Jilin
 
@@ -141,5 +141,6 @@ If you are willing to provide guidance and cooperation, please feel free to cont
    - IEEE SMC 2022, 2023
 9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
 Coming soon! -->
+
 
 
