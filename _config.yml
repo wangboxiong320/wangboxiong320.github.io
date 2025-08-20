@@ -24,8 +24,8 @@ author:
   name             : "王渤雄"
   avatar           : "/images/wangboxiong-photo-512x512.png"
   bio              : "博士研究生"
-  location         : "吉林 长春"
-  employer         : "吉林大学"
+  location         : "北京"
+  employer         : "吉林大学×北京中关村学院"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=be-CgXIAAAAJ"
   email            : "wangbx0320@163.com"
@@ -62,8 +62,8 @@ author-en:
   name             : "Boxiong Wang"
   avatar           : "/images/wangboxiong-photo-512x512.png"
   bio              : "Ph.D. Student"
-  location         : "Changchun, Jilin"
-  employer         : "Jilin University"
+  location         : "Beijing"
+  employer         : "Jilin University×Beijing Zhongguancun Academy"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=be-CgXIAAAAJ"
   email            : "wangbx0320@163.com"
@@ -199,3 +199,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+
