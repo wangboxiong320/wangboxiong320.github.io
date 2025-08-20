@@ -52,7 +52,7 @@ redirect_from:
 <span class='anchor' id='-jyjl'></span>
 
 # 🎓 教育经历
-- *2025.07 - 至今*，<a href="https://bjzgca.edu.cn/"><img class="svg" src="/images/bgzgca.png" width="100pt"></a><a href="https://www.zgci.ac.cn/"><img class="svg" src="/images/bgzgca2.png" width="120pt"></a> 北京中关村学院，自动驾驶大模型安全技术研究，联合培养博士，北京，导师：<a href="http://shi.buaa.edu.cn/09138/zh_CN/index.htm">田大新教授</a>
+- *2025.07 - 至今*，<a href="https://bjzgca.edu.cn/"><img class="svg" src="/images/bgzgca.png" width="110pt"></a><a href="https://www.zgci.ac.cn/"><img class="svg" src="/images/bgzgca2.png" width="140pt"></a> 北京中关村学院，联合培养博士，北京，导师：<a href="http://shi.buaa.edu.cn/09138/zh_CN/index.htm">田大新教授</a>
 - *2024.09 - 至今*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术，博士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>、合作导师：<a href="https://sungeng207.github.io/">孙庚教授</a>
 <!-- - *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，联合培养，新加坡，导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a> -->
 - *2021.09 - 2024.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，硕士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>
@@ -163,6 +163,7 @@ redirect_from:
    - IEEE SMC 2022, 2023
 9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
  -->
+
 
 
 
