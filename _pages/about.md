@@ -35,23 +35,12 @@ redirect_from:
 
 # 💼 个人简介
 
-<!-- 李家辉，博士，吉林大学计算机科学与技术学院助理研究员，入选**<u>国家资助博士后研究人员计划 (C档)</u>** 和**<u>吉林大学“鼎新学者”支持计划</u>**。此前，于吉林大学计算机科学与技术学院获得工学博士学位，博士生导师为孙庚教授，2022年10月，受国家留学基金委资助赴新加坡科技设计大学（Singapore University of Technology and Design）公派留学，合作导师为Lingjie Duan教授，并于吉林大学计算机科学与技术学院获得工学硕士学位，硕士生导师为康辉教授。曾获**<u>中国商业联合会科学技术奖二等奖</u>**、**<u>宝钢优秀学生奖（研究生）</u>**、**<u>吉林大学十佳研究生</u>**、**<u>中国一汽“红旗”奖学金</u>**、**<u>INFOCOM 2021 Student Conference Award</u>**、**<u>国家奖学金</u>**、**<u>王湘浩奖学金</u>**、**<u>吉林省普通高校省级优秀大学生</u>**、**<u>吉林大学优秀博士学位论文</u>**、**<u>吉林省优秀硕士学位论文</u>**、**<u>优秀研究生</u>**、**<u>优秀毕业生</u>**等多项奖励和荣誉称号。
-
-
-近5年，以第一作者、导师外一作和通信作者身份共计发表高水平学术论文30余篇，其中**<u>中国计算机学会推荐A类、B类期刊和会议及中科院1区20余篇</u>**，包括**<u>IEEE/ACM ToN</u>、<u>IEEE JSAC</u>、<u>IEEE TMC</u>、<u>IEEE TWC</u>、<u>IEEE TCOM</u>、<u>IEEE IoT-J</u>、<u>IEEE WCM</u>、<u>IEEE TIV</u>、<u>IEEE INFOCOM</u>、<u>IEEE GLOBECOM</u>、<u>IEEE WCNC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议；获得授权发明专利5项；担任多个顶级期刊审稿人与重要学术会议的TPC member。主持**<u>国家资助博士后研究人员计划项目</u>**、**<u>中国博士后科学基金面上项目</u>**以及吉林省教育厅科学研究项目等，并参加多项国家重点研发计划项目和国家自然科学基金面上项目等。
-
-主要研究方向为：
-- 空天地一体化网络
-- 异构协作通信
-- 多目标优化
-- 深度强化学习与演化学习
-
-如果您愿意提供指导与合作，烦请您随时通过邮件（<a href="mailto:lijiahui@jlu.edu.cn">lijiahui@jlu.edu.cn</a>）或微信（ljh1009501336）与我联系，期待您的见解与帮助。 -->
-王渤雄，吉林大学计算机科学与技术学院2024级博士研究生，博士生导师为康辉教授，博士生合作导师为孙庚教授。此前，于吉林大学软件学院获得工学硕士学位，硕士生导师为康辉教授。曾获学业奖学金、研究生优秀奖学金、苏州工业园区奖学金、优秀研究生、优秀毕业研究生等多项奖励和荣誉称号。
+王渤雄，吉林大学计算机科学与技术学院2024级博士研究生，博士生导师为康辉教授，博士生合作导师为孙庚教授，目前于北京中关村学院进行联合培养。此前，于吉林大学软件学院获得工学硕士学位，硕士生导师为康辉教授。曾获学业奖学金、研究生优秀奖学金、苏州工业园区奖学金、优秀研究生、优秀毕业研究生等多项奖励和荣誉称号。
 
 近5年，以第一作者、通信作者身份等共计发表论文5篇，其中**<u>中科院2区</u>、<u>中国计算机学会推荐C类会议</u>**5篇，包括**<u>IEEE IoT-J</u>、<u>ASOC</u>、<u>IEEE UIC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议。主持**<u>吉林大学研究生创新研究项目</u>**，并参加多项国家重点研发项目和省部级面上项目等。
 
 主要研究方向为：
+- 面向自动驾驶大模型的大规模强化学习
 - 空天地一体化网络
 - 移动边缘计算与数据收集
 - 异构协作通信
@@ -63,6 +52,7 @@ redirect_from:
 <span class='anchor' id='-jyjl'></span>
 
 # 🎓 教育经历
+- *2025.07 - 至今*，<a href="https://bjzgca.edu.cn/"><img class="svg" src="/images/bgzgca.png" width="60pt"></a><a href="https://www.zgci.ac.cn/"><img class="svg" src="/images/bgzgca2.png" width="60pt"></a> 北京中关村学院，自动驾驶大模型安全技术研究，联合培养，北京，导师：<a href="http://shi.buaa.edu.cn/09138/zh_CN/index.htm">田大新教授</a>
 - *2024.09 - 至今*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，计算机科学与技术学院，计算机应用技术，博士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>、合作导师：<a href="https://sungeng207.github.io/">孙庚教授</a>
 <!-- - *2022.10 - 2023.10*，<a href="https://www.sutd.edu.sg/"><img class="svg" src="/images/sutd-icon.png" width="60pt"></a> 新加坡科技设计大学，工程系统设计，联合培养，新加坡，导师：<a href="https://esd.sutd.edu.sg/people/faculty/lingjie-duan/">Prof. Lingjie Duan</a> -->
 - *2021.09 - 2024.06*，<a href="https://www.jlu.edu.cn/"><img class="svg" src="/images/jlu-icon.jpg" width="30pt"></a> 吉林大学，软件学院，软件工程，硕士，吉林长春，导师：<a href="https://ccst.jlu.edu.cn/info/1367/20233.htm">康辉教授</a>
@@ -173,3 +163,4 @@ redirect_from:
    - IEEE SMC 2022, 2023
 9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
  -->
+
