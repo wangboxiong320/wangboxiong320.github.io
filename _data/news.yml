@@ -1,7 +1,7 @@
 # news items
 items:
   - date: '01/2026'
-    content: 'Our paper "Low-Altitude Satellite-AAV Collaborative Joint Mobile Edge Computing and Data Collection via Diffusion-based Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (CCF A，中科院1区)!'
+    content: 'Our paper "Low-Altitude Satellite-AAV Collaborative Joint Mobile Edge Computing and Data Collection via Diffusion-based Deep Reinforcement Learning" has been accepted by IEEE Transactions on Mobile Computing (第一作者，CCF A，中科院1区)!'
 
   - date: '05/2025'
     content: 'Our paper "Joint Resource Management for Energy-efficient UAV-assisted SWIPT-MEC: A Deep Reinforcement Learning Approach" has been accepted by IEEE Internet of Things Journal (中科院1区)!'
