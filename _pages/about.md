@@ -37,7 +37,7 @@ redirect_from:
 
 王渤雄，吉林大学计算机科学与技术学院2024级博士研究生，博士生导师为康辉教授，博士生合作导师为孙庚教授，目前于北京中关村学院进行联合培养。此前，于吉林大学软件学院获得工学硕士学位，硕士生导师为康辉教授。曾获学业奖学金、研究生优秀奖学金、苏州工业园区奖学金、优秀研究生、优秀毕业研究生等多项奖励和荣誉称号。
 
-近5年，以第一作者、通信作者身份等共计发表论文5篇，其中**<u>中科院2区</u>、<u>中国计算机学会推荐C类会议</u>**5篇，包括**<u>IEEE IoT-J</u>、<u>ASOC</u>、<u>IEEE UIC</u>**和**<u>IEEE ICC</u>**等高水平期刊和学术会议。主持**<u>吉林大学研究生创新研究项目</u>**，并参加多项国家重点研发项目和省部级面上项目等。
+近5年，以第一作者、通信作者身份等共计发表论文6篇，其中**<u>中科院1区</u>、<u>中国计算机学会推荐C类会议</u>**5篇，包括**<u>IEEE TMC</u>、<u>IEEE IoT-J</u>、<u>ASOC</u>、<u>IEEE UIC</u>**和**<u>IEEE ICC</u>**等**<u>中科院1区</u>、<u>中国计算机学会推荐A类</u>**高水平期刊和学术会议。主持**<u>吉林大学研究生创新研究项目</u>**，并参加多项国家重点研发项目和省部级面上项目等。
 
 主要研究方向为：
 - 面向自动驾驶大模型的大规模强化学习
@@ -76,6 +76,14 @@ redirect_from:
 <span class='anchor' id='-xscg'></span>
 
 # 📝 代表性学术成果
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMC 2026</div><img src='/images/tmc2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- **<u>Boxiong Wang</u>**, Hui Kang, Jiahui Li**\***, Geng Sun**\***, Zemin Sun, Jiacheng Wang, Dusit Niyato, Shiwen Mao. Low-Altitude Satellite-AAV Collaborative Joint Mobile Edge Computing and Data Collection via Diffusion-based Deep Reinforcement Learning, *IEEE Transactions on Mobile Computing*, 2026. **(IF=9.2) (SCI, 中科院1区，CCF A类期刊)** [[IEEE Xplore]](https://ieeexplore.ieee.org/document/11355836)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IoTJ 2025</div><img src='/images/iotj2025.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -163,6 +171,7 @@ redirect_from:
    - IEEE SMC 2022, 2023
 9. 吉林大学计算机科学与技术学院“研学论道”主讲人 (2021年度、2022年度、2023年度、2024年度)
  -->
+
 
 
 
